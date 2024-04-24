@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 body{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 0;
 	background-color: rgb(80, 23, 137);
 }
@@ -40,7 +40,7 @@ h1,h2,h3,h4,h5{
     font-size: 1.9em;
     color: #ab1717b1;
     padding: 10px;
-    font-family: 'Sacramento', cursive;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         
 }
 .main-header__contactInfo__phone{
@@ -163,7 +163,7 @@ h1,h2,h3,h4,h5{
 }
 .banner__content {
     width: 70%;
-    color: white;
+    color: rgb(221, 127, 236);
     text-align:center;
     position: absolute;
     z-index: 1500;
@@ -185,7 +185,7 @@ h1,h2,h3,h4,h5{
 .main__title{
 	margin: 15px 0;
 	font-size: 2.8em;
-	font-family: 'Sacramento',cursive;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	
 }
 .column__title{
